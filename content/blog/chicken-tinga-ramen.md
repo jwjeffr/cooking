@@ -56,6 +56,8 @@ tags = []
 
 4. Put your tomatoes, chicken, chipotle peppers, garlic, and onion in your slow cooker. Optionally break off your cilantro stems and put the stems in. The fibrous texture that a lot of people don't like becomes less chalky when they're slow-cooked, in my opinion. All of these amounts are to your heart's desire, but I usually use one 7-oz can of chipotle peppers per 3 chicken thighs. Just remember that the tomatoes and chipotle peppers should be the star of the show :)
 
+![Ingredients in bowl](https://jwjeffr.github.io/IMG_2795.jpeg)
+
 5. Mix the mixture
 
 6. Season the mixture with MSG, oregano, and a little bit of olive oil.
