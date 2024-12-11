@@ -62,14 +62,20 @@ tags = []
 
 6. Season the mixture with MSG, oregano, and a little bit of olive oil.
 
+![Mixed uncooked ingredients](https://jwjeffr.github.io/IMG_2797.jpeg)
+
 7. Set aside, and cook on a low-heat for at least 4 hours. The longer this cooks, the better, but the acidity in the adobo sauce can give the chicken a weird texture if you cook it for way too long. This probably shouldn't be cooking for more than 8 hours. Halfway through cooking, or once the chicken is fork-tender, shred the chicken, and remove the bones if necessary.
 
 8. Right before the chicken is done cooking, cook your ramen noodles in your stock. You should ideally slightly undercook them, since they'll cook a bit in the chicken/sauce mixture.
 
 9. Once the chicken is done, shut off the slow cooker and thoroughly stir the chicken and sauce together. Let this cool down a little bit, at least until it stops boiling.
 
+![Mixed cooked ingredients](https://jwjeffr.github.io/IMG_2798.jpeg)
+
 10. Place the noodles in the pot, and add stock until the chicken/sauce mixture reaches a consistency you like. Remember, you can always add, but not remove.
 
-11. Serve in bowls, putting your garnishes (avocado, jalapeno, red onion, and lime wedges) on top, and enjoy! This is best served with Corona Light beer, in my opinion :)
+11. Serve in bowls, putting your garnishes (avocado, jalapeno, red onion, and lime wedges) on top, and enjoy! This is best served with Corona Light beer, in my opinion. I personally have a cilantro addiction, so feel free to go easier on the cilantro than I did.
 
-12. Enjoy!
+![Garnished bowl](https://jwjeffr.github.io/IMG_2799.jpeg)
+
+12. Enjoy! Be careful, this is a spicy dish! If you don't have the best spice tolerance, consider pairing this with something creamy like horchata.
