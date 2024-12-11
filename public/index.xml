@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeffries Cooking Blog</title>
+    <title>Home on Jeffries Cooking Blog</title>
     <link>https://jwjeffr.github.io/</link>
-    <description>Recent content on Jeffries Cooking Blog</description>
+    <description>Recent content in Home on Jeffries Cooking Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Jacob Jeffries.</copyright>
-    <lastBuildDate>Tue, 10 Dec 2024 01:18:32 +0100</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://jwjeffr.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chicken Tinga Ramen</title>
-      <link>https://jwjeffr.github.io/chicken-tinga-ramen/</link>
-      <pubDate>Tue, 10 Dec 2024 01:18:32 +0100</pubDate>
-      <guid>https://jwjeffr.github.io/chicken-tinga-ramen/</guid>
-      <description>&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients:&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chicken&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Any cut works! This is a slow-cooked meal, so anything will be tender&lt;/li&gt;&#xA;&lt;li&gt;This is the only ingredient that can&amp;rsquo;t be vegan, so feel free to substitute this for something else to make it vegan! Just be sure that whatever substitute you have will survive in a slow cooker. Or, if won&amp;rsquo;t survive, cook it separately!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Chipotle peppers in adobo sauce&#xA;&lt;ul&gt;&#xA;&lt;li&gt;My go-to&amp;rsquo;s are &lt;a href=&#34;https://www.amazon.com/Costena-Chipotle-Peppers-Ounce-Pack/dp/B00HF7VVU4/ref=asc_df_B00HF7VVU4&#34;&gt;this brand&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Tomatoes in sauce&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Canned San Marzano tomatoes are my go-to, or anything similar. I find that you can really taste the difference between high-quality and cheap tomatoes in this dish&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;White onion(s)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;These will end up being diced, so feel free to buy them pre-diced.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Minced garlic&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If you prefer the taste of fresh garlic, feel free to mince garlic yourself! Or buy it canned, no shame here :)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Mexican oregano&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This one is a bit hard to find in my experience, so I usually just use an Italian seasoning blend instead. But, if you can find this, use it!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Fresh cilantro&lt;/li&gt;&#xA;&lt;li&gt;Extra virgin olive oil&lt;/li&gt;&#xA;&lt;li&gt;Ramen noodles&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Any of your choice! I love the cheap packets.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Stock&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some sort of cooking stock. Chicken broth is the best option in my opinion. I usually just microwave water and stir around a chicken bouillon cube. You can also make a stock out of the seasoning packet that comes with your ramen noodles, but be careful to not use the whole packet - your dish will be &lt;strong&gt;very&lt;/strong&gt; salty if you do.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;MSG (Optional)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I put MSG, aka Make Shit Good, in pretty much every savory dish I make. You can leave this out if you want&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sliced avocado (Optional)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Good for garnishing. I&amp;rsquo;m allergic to it, so I always leave it out&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Jalapeno (Optional)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For garish&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Red onion (Optional)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Also for garnish&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Lime wedges (Optional)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Last garnish!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;instructions&#34;&gt;Instructions:&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;If your chicken has skin on it, remove it. Set it aside - you won&amp;rsquo;t need it for this recipe. You can air fry them to make delicious chips!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Home</title>
-      <link>https://jwjeffr.github.io/</link>
-      <pubDate>Tue, 10 Dec 2024 01:17:45 +0100</pubDate>
-      <guid>https://jwjeffr.github.io/</guid>
-      <description>&lt;p&gt;My name is Jacob and I&amp;rsquo;m a huge nerd. I love cooking from the heart.&lt;/p&gt;&#xA;&lt;p&gt;I especially love recipes that are easy to modify for new tastes, in the form of substituting ingredients, adding more of or entirely removing certain ingredients, etc. I believe cooking is one of the most beautiful forms of self-expression and culture, and therefore anything you make should reflect who you are, like how each author has their own writing style.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
