@@ -2,6 +2,7 @@
 date = '2024-12-10T01:17:45+01:00'
 draft = true
 title = 'Home'
+url = '/'
 +++
 
 My name is Jacob and I'm a huge nerd. I love cooking from the heart.
