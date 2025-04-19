@@ -14,4 +14,4 @@ You might get overzealous when modifying my recipes and make a mistake, but that
 
 Or, you can copy my recipes directly - I don't mind :)
 
-[Recipes](https://jwjeffr.github.io/blog)
+[Recipes](https://jwjeffr.github.io/cooking/blog)
