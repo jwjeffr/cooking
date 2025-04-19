@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://jwjeffr.github.io/sitemap.xml
